@@ -1,0 +1,5 @@
+com\ms3\order\controller\orderC.class
+com\ms3\order\repository\repository.class
+com\ms3\order\model\order.class
+com\ms3\order\OrderApplication.class
+com\ms3\order\config\RestTemplateConfig.class
